@@ -1,0 +1,21 @@
+Variables,Meaning
+user_id,unique ID
+user_create_date,date the user created a profile
+user_birth_date,date the user was born
+user_gender,gender of the user
+user_interested_in,"gender the user is interested in dating (""F"", ""M"", or ""M and F"")"
+days_open,the number of unique days the user has opened the app
+matches,total number of matches
+swipes_like,number of times the user swiped right
+swipes_pass,number of times the user swiped left
+messages_received,total number of messages received on the app
+messages_sent,total number of messages sent on the app
+avg_convo_length_msgs,average number of messages the user exchanged with a match
+avg_convo_length_days,average number of days the user exchanged messages with a match
+longest_convo_msgs,the most number of messages the user exchanged with a match
+longest_convo_days,the most number of days the user exchanged messages with a match
+median_convo_length_msgs,median number of messages the user exchanged with a match
+median_convo_length_days,median number of days the user exchanged messages with a match
+number_conversations,total number of matches that the user conversed with
+number_ghostings,total number of matches that were ghosted (it is unclear if this number refers to being ghosted or ghosting the match)
+number_one_msg_conversations,total number of conversations that only lasted one message
